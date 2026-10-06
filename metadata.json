@@ -1,0 +1,6 @@
+{
+  "name": "RU ediTOR",
+  "description": "Professional Video Editing — Simple, Fast, Free with true 4K export, multi-track timeline, keyframes, audio effects & speech tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
